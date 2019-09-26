@@ -1,0 +1,1452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/gmall-item-web/src/main/java/com/atguigu/gmall/gmallitemweb/controller/ItemController.java" line="28" mnemonic="7" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="359a7a97-745d-4cff-88c4-aa10803664df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/fastdfs-client-java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fastdfs-client-java/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastdfs-client-java/src/test/java/org/csource/fastdfs/FdfsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/fastdfs-client-java/src/test/java/org/csource/fastdfs/FdfsTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/gmallparent/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-parent/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-bean/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-interface/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-common-util/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-service-util/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-web-util/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-usermanage/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-order-web/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-manage-web/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-manage-service/target/" />
+    <ignored path="$PROJECT_DIR$/fastdfs-client-java/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-item-web/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-list-service/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-list-web/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-passport-web/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-bean/gmall-list-service/target/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
+    <ignored path="$PROJECT_DIR$/haofan/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-list-webclone/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-cart-web/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-cart-service/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-order-service/target/" />
+    <ignored path="$PROJECT_DIR$/gware-manage/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-payment/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="gmall" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmall-parent/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmall-passport-web/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-41" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmall-payment/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="445">
+              <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmall-service-util/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-41" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmall-usermanage/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-41" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmall-web-util/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gmall-manage-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmall-manage-web/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-41" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmall-order-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-41" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gmall-order-web/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-41" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Kotlin File" />
+        <option value="HTML File" />
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>人工智能 HDR曲面超薄4K电视金属机</find>
+      <find>selectCartListWithCurPrice</find>
+      <find>load</find>
+      <find>chkbox</find>
+      <find>getCartList</find>
+      <find>One_ShopCon</find>
+      <find>checkSku</find>
+      <find>isCheckedFlag</find>
+      <find>mergeToCartList</find>
+      <find>setIsChecked</find>
+      <find>loadCartCache</find>
+      <find>checkCart</find>
+      <find>USER_CHECKED_KEY_SUFFIX</find>
+      <find>th:text</find>
+      <find>收货</find>
+      <find>收</find>
+      <find>信息</find>
+      <find>收货人</find>
+      <find>送货</find>
+      <find>submitOrder</find>
+      <find>submitButton</find>
+      <find>consignee</find>
+      <find>orderForm</find>
+      <find>OrderService</find>
+      <find>orderPrice</find>
+      <find>index</find>
+      <find>paymentForm</find>
+      <find>alipayClient</find>
+      <find>spring-boot-starter</find>
+      <find>spring-boot-starter-parent</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gmall-bean/src/main/java/com/atguigu/gmall/bean/CartInfo.java" />
+        <option value="$PROJECT_DIR$/gmall-cart-web/src/main/java/com/atguigu/gmall/cart/consts/CartConst.java" />
+        <option value="$PROJECT_DIR$/gmall-web-util/src/main/java/com/atguigu/gmall/config/CookieUtil.java" />
+        <option value="$PROJECT_DIR$/gmall-item-web/src/main/java/com/atguigu/gmall/gmallitemweb/controller/ItemController.java" />
+        <option value="$PROJECT_DIR$/gmall-item-web/src/main/resources/templates/item.html" />
+        <option value="$PROJECT_DIR$/gmall-web-util/src/main/java/com/atguigu/gmall/config/AuthInterceptor.java" />
+        <option value="$PROJECT_DIR$/gmall-cart-web/src/main/resources/templates/success.html" />
+        <option value="$PROJECT_DIR$/gmall-cart-web/src/main/java/com/atguigu/gmall/cart/GmallCartWebApplication.java" />
+        <option value="$PROJECT_DIR$/gmall-cart-service/src/main/java/com/atguigu/gmall/cart/GmallCartServiceApplication.java" />
+        <option value="$PROJECT_DIR$/gmall-cart-service/src/main/java/com/atguigu/gmall/cart/mapper/CartInfoMapper.java" />
+        <option value="$PROJECT_DIR$/gmall-cart-service/src/main/resources/mapper/CartInfoMapper.xml" />
+        <option value="$PROJECT_DIR$/gmall-cart-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gmall-cart-web/src/main/java/com/atguigu/gmall/cart/controller/CartCookieHandler.java" />
+        <option value="$PROJECT_DIR$/gmall-cart-web/src/main/resources/templates/cartList.html" />
+        <option value="$PROJECT_DIR$/gmall-order-web/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gmall-cart-web/src/main/java/com/atguigu/gmall/cart/controller/CartController.java" />
+        <option value="$PROJECT_DIR$/gmall-order-web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-order-web/src/main/java/com/atguigu/gmall/order/GmallOrderWebApplication.java" />
+        <option value="$PROJECT_DIR$/gmall-usermanage/src/main/java/com/atguigu/gmall/gmallusermanage/user/controller/UserInfoController.java" />
+        <option value="$PROJECT_DIR$/gmall-usermanage/src/main/java/com/atguigu/gmall/gmallusermanage/user/service/impl/UserInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gmall-bean/src/main/java/com/atguigu/gmall/bean/OrderDetail.java" />
+        <option value="$PROJECT_DIR$/gmall-bean/src/main/java/com/atguigu/gmall/bean/OrderInfo.java" />
+        <option value="$PROJECT_DIR$/gmall-cart-service/src/main/java/com/atguigu/gmall/cart/service/impl/CartServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gmall-order-service/src/main/java/com/atguigu/com/order/mapper/OrderInfoMapper.java" />
+        <option value="$PROJECT_DIR$/gmall-order-service/src/main/java/com/atguigu/com/order/mapper/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gmall-order-service/src/main/java/com/atguigu/com/order/mapper/OrderDetailMapper.java" />
+        <option value="$PROJECT_DIR$/gmall-interface/src/main/java/user/service/CartService.java" />
+        <option value="$PROJECT_DIR$/gmall-order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-order-service/src/main/java/com/atguigu/com/order/GmallOrderServiceApplication.java" />
+        <option value="$PROJECT_DIR$/gmall-order-service/src/main/java/com/atguigu/com/order/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gmall-order-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gmall-order-web/src/main/java/com/atguigu/gmall/order/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/gmall-order-web/src/main/resources/templates/trade.html" />
+        <option value="$PROJECT_DIR$/gware-manage/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gware-manage/src/main/java/com/atguigu/gware/config/ActiveMQUtil.java" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/GmallPaymentApplication.java" />
+        <option value="$PROJECT_DIR$/gmall-payment/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-interface/src/main/java/user/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/gmall-order-service/src/main/java/com/atguigu/gmall/order/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gmall-bean/src/main/java/com/atguigu/gmall/bean/PaymentInfo.java" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/mapper/PaymentService.java" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/service/impl/PaymentService.java" />
+        <option value="$PROJECT_DIR$/gmall-interface/src/main/java/user/service/PaymentService.java" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/service/impl/PaymentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/config/AlipayConfig.java" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gmall-payment/src/main/resources/alipay.properties" />
+        <option value="$PROJECT_DIR$/gware-manage/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-manage-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.5.4\conf\settings.xml" />
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gmall-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gmall-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="55" />
+    <option name="y" value="103" />
+    <option name="width" value="1372" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-cart-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-cart-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-common-util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-item-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-list-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-list-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-list-webclone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-manage-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-manage-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-order-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-order-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-passport-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-payment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-service-util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-usermanage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+              <item name="gmall-web-util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/gmall-usermanage/src/main/java/com/atguigu/gmall/gmallusermanage" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gmall-payment/src/main/resources/templates" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\gmall\gmall-bean" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.atguigu.com.order" />
+      <recent name="com.atguigu.gmall.cart" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.atguigu.gmall.bean" />
+      <recent name="bean" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\gmall\gmall-payment\src\main\resources\templates" />
+      <recent name="E:\gmall\gmall-payment\src\main\resources\static" />
+      <recent name="E:\gmall\gmall-bean\src\main\java\com\atguigu\gmall\bean\enums" />
+      <recent name="E:\gmall\gmall-order-web\src\main\resources\static" />
+      <recent name="E:\gmall\gmall-order-web\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.30462065" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.GwareManageApplication">
+    <configuration name="GmallListServiceApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gmall-list-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.gmalllistservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.gmall.gmalllistservice" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.gmall.gmalllistservice.GmallListServiceApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallListServiceApplicationTests.testES" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gmall-list-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall0325.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.gmall0325.list" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.gmall0325.list.GmallListServiceApplicationTests" />
+      <option name="METHOD_NAME" value="testES" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallPassportWebApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gmall-passport-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.gmallpassportweb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.gmall.gmallpassportweb" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.gmall.gmallpassportweb.GmallPassportWebApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallCartServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-cart-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.cart.GmallCartServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallCartWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-cart-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.cart.GmallCartWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallItemWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-item-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.gmallitemweb.GmallItemWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallListServiceApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gmall-list-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.list.GmallListServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallListWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-list-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.gmalllistweb.GmallListWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallListWebcloneApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-list-webclone" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.list.GmallListWebcloneApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallManageServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-manage-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.manage.GmallManageServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallManageWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-manage-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.gmallmanageweb.GmallManageWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallOrderServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gmall-order-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.order.GmallOrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallOrderWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-order-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.order.GmallOrderWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallPassportWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-passport-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.gmallpassportweb.GmallPassportWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallPaymentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-payment" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.payment.GmallPaymentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallUsermanageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-usermanage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.gmallusermanage.GmallUsermanageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GwareManageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gware-manage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.GwareManageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.40" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_gmall" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51700" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.GmallListServiceApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.GmallListServiceApplicationTests.testES" />
+      <item itemvalue="JUnit.GmallPassportWebApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.GmallManageServiceApplication" />
+      <item itemvalue="Spring Boot.GmallManageWebApplication" />
+      <item itemvalue="Spring Boot.GmallOrderWebApplication" />
+      <item itemvalue="Spring Boot.GmallItemWebApplication" />
+      <item itemvalue="Spring Boot.GmallUsermanageApplication" />
+      <item itemvalue="Spring Boot.GmallListWebApplication" />
+      <item itemvalue="Spring Boot.GmallPassportWebApplication" />
+      <item itemvalue="Spring Boot.GmallListWebcloneApplication" />
+      <item itemvalue="Spring Boot.GmallCartServiceApplication" />
+      <item itemvalue="Spring Boot.GmallCartWebApplication" />
+      <item itemvalue="Spring Boot.GwareManageApplication" />
+      <item itemvalue="Spring Boot.GmallPaymentApplication" />
+      <item itemvalue="Spring Boot.GmallListServiceApplication (2)" />
+      <item itemvalue="Spring Boot.GmallOrderServiceApplication (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.GmallOrderServiceApplication (1)" />
+        <item itemvalue="Spring Boot.GmallListServiceApplication (2)" />
+        <item itemvalue="JUnit.GmallPassportWebApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.GmallListServiceApplicationTests.testES" />
+        <item itemvalue="JUnit.GmallListServiceApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\a\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="359a7a97-745d-4cff-88c4-aa10803664df" name="Default Changelist" comment="" />
+      <created>1567587842315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567587842315</updated>
+      <workItem from="1567587845589" duration="12085000" />
+      <workItem from="1567732158369" duration="3708000" />
+      <workItem from="1567750560350" duration="17191000" />
+      <workItem from="1567816546161" duration="7669000" />
+      <workItem from="1567837276342" duration="3814000" />
+      <workItem from="1567858539648" duration="11240000" />
+      <workItem from="1567928393478" duration="606000" />
+      <workItem from="1567929810853" duration="1469000" />
+      <workItem from="1567998892201" duration="581000" />
+      <workItem from="1568010247328" duration="15737000" />
+      <workItem from="1568038884029" duration="120000" />
+      <workItem from="1568076000260" duration="3512000" />
+      <workItem from="1568096760103" duration="19645000" />
+      <workItem from="1568162137835" duration="1729000" />
+      <workItem from="1568164222785" duration="6899000" />
+      <workItem from="1568187911026" duration="18819000" />
+      <workItem from="1568214213359" duration="918000" />
+      <workItem from="1568249285720" duration="3540000" />
+      <workItem from="1568275221381" duration="1371000" />
+      <workItem from="1568388778956" duration="4568000" />
+      <workItem from="1568445913246" duration="20996000" />
+      <workItem from="1568595321661" duration="535000" />
+      <workItem from="1568596600300" duration="3928000" />
+      <workItem from="1568615222538" duration="24961000" />
+      <workItem from="1568680593561" duration="3119000" />
+      <workItem from="1568704793468" duration="4380000" />
+      <workItem from="1568714597593" duration="1056000" />
+      <workItem from="1568715909058" duration="9423000" />
+      <workItem from="1568727403743" duration="232000" />
+      <workItem from="1568730284320" duration="4159000" />
+      <workItem from="1568766674590" duration="9220000" />
+      <workItem from="1568776973445" duration="5609000" />
+      <workItem from="1568787021117" duration="9432000" />
+      <workItem from="1568796986990" duration="16166000" />
+      <workItem from="1568823781598" duration="3616000" />
+      <workItem from="1568859480853" duration="6973000" />
+      <workItem from="1568874193124" duration="22115000" />
+      <workItem from="1568951030025" duration="5369000" />
+      <workItem from="1568959396725" duration="27343000" />
+      <workItem from="1569027609079" duration="1331000" />
+      <workItem from="1569036628492" duration="5545000" />
+      <workItem from="1569045820803" duration="24694000" />
+      <workItem from="1569131587407" duration="5702000" />
+      <workItem from="1569140027520" duration="4673000" />
+      <workItem from="1569145059764" duration="6885000" />
+      <workItem from="1569199870768" duration="5028000" />
+      <workItem from="1569206039616" duration="3864000" />
+      <workItem from="1569219696828" duration="3133000" />
+      <workItem from="1569224129112" duration="2110000" />
+      <workItem from="1569226334752" duration="3462000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GmallOrderWebApplicationTests_contextLoads - 2019.09.07 at 10h 42m 27s.xml">
+      <configuration name="GmallOrderWebApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallOrderWebApplicationTests_contextLoads - 2019.09.07 at 10h 45m 16s.xml">
+      <configuration name="GmallOrderWebApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallManageWebApplicationTests_textFileUpload - 2019.09.08 at 00h 42m 33s.xml">
+      <configuration name="GmallManageWebApplicationTests.textFileUpload" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallManageWebApplicationTests_textFileUpload - 2019.09.08 at 00h 45m 16s.xml">
+      <configuration name="GmallManageWebApplicationTests.textFileUpload" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallManageWebApplicationTests_textFileUpload - 2019.09.08 at 00h 47m 13s.xml">
+      <configuration name="GmallManageWebApplicationTests.textFileUpload" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_test - 2019.09.11 at 19h 18m 22s.xml">
+      <configuration name="RedisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTest_test - 2019.09.11 at 19h 20m 54s.xml">
+      <configuration name="RedisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallListServiceApplicationTests_contextLoads - 2019.09.11 at 23h 18m 59s.xml">
+      <configuration name="GmallListServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallListServiceApplicationTests_testES - 2019.09.17 at 23h 34m 03s.xml">
+      <configuration name="GmallListServiceApplicationTests.testES" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallPassportWebApplicationTests_contextLoads - 2019.09.18 at 19h 32m 43s.xml">
+      <configuration name="GmallPassportWebApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="380280000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1861" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5931559" visible="true" weight="0.16433762" />
+      <window_info id="Structure" order="1" sideWeight="0.4068441" side_tool="true" weight="0.14477362" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5017065" side_tool="true" weight="0.2431526" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.589156" weight="0.39510116" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4893617" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.33013844" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32978722" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.31134713" side_tool="true" weight="0.3968085" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32978722" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32978722" />
+      <window_info anchor="bottom" id="Tail" order="15" />
+      <window_info anchor="bottom" id="Run Dashboard" order="16" sideWeight="0.6886529" weight="0.456383" />
+      <window_info anchor="bottom" id="Problems" order="17" weight="0.32978722" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.2861934" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5931559" visible="true" weight="0.16210173" />
+      <window_info id="Structure" order="1" sideWeight="0.4068441" side_tool="true" weight="0.14477362" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5017065" side_tool="true" weight="0.2431526" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.589156" visible="true" weight="0.6255319" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4893617" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32978722" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32978722" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.31134713" side_tool="true" weight="0.3968085" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32978722" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32978722" />
+      <window_info anchor="bottom" id="Tail" order="15" />
+      <window_info anchor="bottom" id="Run Dashboard" order="16" sideWeight="0.6886529" weight="0.456383" />
+      <window_info anchor="bottom" id="Problems" order="17" weight="0.32978722" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.36556736" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>cartInfoFromDB.isChecked</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gware-manage/src/main/java/com/atguigu/gware/config/ActiveMQUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-193">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gware-manage/src/main/java/com/atguigu/gware/controller/GwareController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1250">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gware-manage/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gware-manage/src/main/java/com/atguigu/GwareManageApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-order-service/src/main/java/com/atguigu/gmall/order/GmallOrderServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="58" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gware-manage/src/main/java/com/atguigu/gware/service/GwareService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/GmallPaymentApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-interface/src/main/java/user/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/main/resources/static/js/jquery-3.1.1.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-bean/src/main/java/com/atguigu/gmall/bean/enums/PaymentStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="66" column="42" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-bean/src/main/java/com/atguigu/gmall/bean/PaymentInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/mapper/PaymentServiceMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/controller/PaymentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="65" column="35" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/service/impl/PaymentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-interface/src/main/java/user/service/PaymentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-order-service/src/main/java/com/atguigu/gmall/order/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2075">
+          <caret line="94" column="31" selection-start-line="94" selection-start-column="20" selection-end-line="94" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/main/java/com/atguigu/gmall/payment/config/AlipayConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1060#1061#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1224#1225#0" expanded="true" />
+            <element signature="e#1292#1293#0" expanded="true" />
+            <element signature="e#1390#1391#0" expanded="true" />
+            <element signature="e#1458#1459#0" expanded="true" />
+            <element signature="e#1558#1559#0" expanded="true" />
+            <element signature="e#1622#1623#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-payment/src/main/resources/alipay.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.atguigu.gware:gware-manage:0.0.1-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.atguigu.gware:gware-manage:0.0.1-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.atguigu.gware:gware-manage:0.0.1-SNAPSHOT</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:1.5.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot:jar:1.5.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:1.5.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE/ch.qos.logback:logback-classic:jar:1.1.11/ch.qos.logback:logback-core:jar:1.1.11</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE/org.slf4j:jcl-over-slf4j:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:1.5.10.RELEASE/org.slf4j:log4j-over-slf4j:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter:jar:1.5.10.RELEASE/org.yaml:snakeyaml:jar:1.17</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:1.5.10.RELEASE/org.springframework:spring-jms:jar:4.3.14.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:1.5.10.RELEASE/org.springframework:spring-jms:jar:4.3.14.RELEASE/org.springframework:spring-aop:jar:4.3.14.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:1.5.10.RELEASE/org.springframework:spring-jms:jar:4.3.14.RELEASE/org.springframework:spring-beans:jar:4.3.14.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:1.5.10.RELEASE/org.springframework:spring-jms:jar:4.3.14.RELEASE/org.springframework:spring-context:jar:4.3.14.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:1.5.10.RELEASE/org.springframework:spring-jms:jar:4.3.14.RELEASE/org.springframework:spring-messaging:jar:4.3.14.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:1.5.10.RELEASE/org.springframework:spring-jms:jar:4.3.14.RELEASE/org.springframework:spring-tx:jar:4.3.14.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:1.5.10.RELEASE/org.apache.activemq:activemq-broker:jar:5.14.5</node>
+            <node x="" y="">org.apache.activemq:activemq-pool:jar:5.15.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.10.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.27</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.10.RELEASE/org.apache.tomcat:tomcat-jdbc:jar:8.5.27/org.apache.tomcat:tomcat-juli:jar:8.5.27</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-jdbc:jar:1.5.10.RELEASE/org.springframework:spring-jdbc:jar:4.3.14.RELEASE</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.3.1</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1/org.mybatis:mybatis:jar:3.4.5</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.1/org.mybatis:mybatis-spring:jar:1.3.1</node>
+            <node x="" y="">mysql:mysql-connector-java:jar:5.1.45</node>
+            <node x="" y="">redis.clients:jedis:jar:2.9.0</node>
+            <node x="" y="">redis.clients:jedis:jar:2.9.0/org.apache.commons:commons-pool2:jar:2.4.3</node>
+            <node x="" y="">tk.mybatis:mapper-spring-boot-starter:jar:1.2.3</node>
+            <node x="" y="">tk.mybatis:mapper-spring-boot-starter:jar:1.2.3/tk.mybatis:mapper-spring-boot-autoconfigure:jar:1.2.3</node>
+            <node x="" y="">tk.mybatis:mapper-spring-boot-starter:jar:1.2.3/tk.mybatis:mapper-spring-boot-autoconfigure:jar:1.2.3/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="" y="">tk.mybatis:mapper-spring-boot-starter:jar:1.2.3/tk.mybatis:mapper:jar:3.5.2</node>
+            <node x="" y="">tk.mybatis:mapper-spring-boot-starter:jar:1.2.3/tk.mybatis:mapper:jar:3.5.2/javax.persistence:persistence-api:jar:1.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-test:jar:1.5.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:1.5.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1/net.minidev:accessors-smart:jar:1.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/com.jayway.jsonpath:json-path:jar:2.2.0/net.minidev:json-smart:jar:2.2.1/net.minidev:accessors-smart:jar:1.1/org.ow2.asm:asm:jar:5.0.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/junit:junit:jar:4.12</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.assertj:assertj-core:jar:2.6.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.mockito:mockito-core:jar:1.10.19</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.mockito:mockito-core:jar:1.10.19/org.objenesis:objenesis:jar:2.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.hamcrest:hamcrest-library:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.skyscreamer:jsonassert:jar:1.4.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.skyscreamer:jsonassert:jar:1.4.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.springframework:spring-core:jar:4.3.14.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:1.5.10.RELEASE/org.springframework:spring-test:jar:4.3.14.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.10.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.27</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.10.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:8.5.27/org.apache.tomcat:tomcat-annotations-api:jar:8.5.27</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.10.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:8.5.27</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:1.5.10.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:8.5.27</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/javax.validation:validation-api:jar:1.1.0.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/org.jboss.logging:jboss-logging:jar:3.3.1.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.hibernate:hibernate-validator:jar:5.3.6.Final/com.fasterxml:classmate:jar:1.3.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.10</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.10/com.fasterxml.jackson.core:jackson-annotations:jar:2.8.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.8.10/com.fasterxml.jackson.core:jackson-core:jar:2.8.10</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-web:jar:4.3.14.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-webmvc:jar:4.3.14.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:1.5.10.RELEASE/org.springframework:spring-webmvc:jar:4.3.14.RELEASE/org.springframework:spring-expression:jar:4.3.14.RELEASE</node>
+            <node x="" y="">com.alibaba:fastjson:jar:1.2.46</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.5.10.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.5.10.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.5.10.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.6.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.6.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.5.10.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.6.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.6.RELEASE/ognl:ognl:jar:3.0.8</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.5.10.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.6.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.6.RELEASE/org.javassist:javassist:jar:3.21.0-GA</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.5.10.RELEASE/org.thymeleaf:thymeleaf-spring4:jar:2.1.6.RELEASE/org.thymeleaf:thymeleaf:jar:2.1.6.RELEASE/org.unbescape:unbescape:jar:1.1.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.5.10.RELEASE/nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:jar:1.4.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-thymeleaf:jar:1.5.10.RELEASE/nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:jar:1.4.0/org.codehaus.groovy:groovy:jar:2.4.13</node>
+            <node x="" y="">net.sourceforge.nekohtml:nekohtml:jar:1.9.20</node>
+            <node x="" y="">net.sourceforge.nekohtml:nekohtml:jar:1.9.20/xerces:xercesImpl:jar:2.10.0</node>
+            <node x="" y="">xml-apis:xml-apis:jar:1.4.01</node>
+            <node x="" y="">org.apache.xmlgraphics:batik-ext:jar:1.9.1</node>
+            <node x="" y="">org.apache.httpcomponents:httpclient:jar:4.5.5</node>
+            <node x="" y="">org.apache.httpcomponents:httpclient:jar:4.5.5/org.apache.httpcomponents:httpcore:jar:4.4.9</node>
+            <node x="" y="">org.apache.httpcomponents:httpclient:jar:4.5.5/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">org.apache.httpcomponents:httpclient:jar:4.5.5/commons-codec:commons-codec:jar:1.10</node>
+            <node x="" y="">org.apache.commons:commons-lang3:jar:3.7</node>
+            <node x="" y="">commons-beanutils:commons-beanutils:jar:1.9.3</node>
+            <node x="" y="">commons-beanutils:commons-beanutils:jar:1.9.3/commons-collections:commons-collections:jar:3.2.2</node>
+            <node x="" y="">commons-codec:commons-codec:jar:1.11</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8132075471698113" x="721.0" y="519.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-list-web/src/main/java/com/atguigu/gmall/gmalllistweb/controller/ListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-activemq/1.5.10.RELEASE/spring-boot-starter-activemq-1.5.10.RELEASE.pom" />
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/1.5.10.RELEASE/spring-boot-starter-parent-1.5.10.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gware-manage/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gware-manage/src/main/java/com/atguigu/gware/mq/WareConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" selection-start-line="15" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-cart-web/src/main/java/com/atguigu/gmall/cart/controller/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2575">
+          <caret line="117" column="32" selection-start-line="117" selection-start-column="27" selection-end-line="117" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gware-manage/src/main/java/com/atguigu/gware/config/ActiveMQConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gware-manage/src/main/java/com/atguigu/gware/service/impl/GwareServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="107" column="50" lean-forward="true" selection-start-line="107" selection-start-column="50" selection-end-line="107" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-usermanage/src/main/java/com/atguigu/gmall/gmallusermanage/user/controller/UserInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-parent/gmall-parent.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-bean/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-cart-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-cart-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-common-util/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-item-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-list-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-375" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-list-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-list-webclone/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-order-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-order-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-usermanage/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-web-util/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-service-util/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-payment/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-passport-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-manage-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>gmall-parent</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Java EE 6-Java EE 6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

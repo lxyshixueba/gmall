@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: net.java.dev.jna:jna:unknown">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../mavenrep/repository/net/java/dev/jna/jna/unknown/jna-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../mavenrep/repository/net/java/dev/jna/jna/unknown/jna-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../mavenrep/repository/net/java/dev/jna/jna/unknown/jna-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
